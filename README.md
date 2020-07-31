@@ -3,7 +3,7 @@
 
 ## Sobre
 - Criar uma aplicação em Node.js com TypeScript para armazenar transações financeiras de entrada e saída, que irá permitir o cadastro e a listagem dessas transações.
-- [Instruções para o Desafio](doc/Desafio%2005%20-%20Instru%C3%A7%C3%B5es.pdf)
+- [Instruções para o Desafio](docs/Desafio%2005%20-%20Instru%C3%A7%C3%B5es.pdf)
 
 ---
 
